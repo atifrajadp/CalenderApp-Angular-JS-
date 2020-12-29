@@ -1,0 +1,28 @@
+#sal
+{
+    font-size: 40px;
+    color:white;
+    background-color: springgreen;
+    position:center;
+    margin:0;
+    padding:10px;
+    width: 100%;
+    font-weight: 1000;
+    border: 3px solid lightgreen;
+    
+}
+
+#sub
+{
+    border-radius: 100px;
+   background-color: springgreen
+}
+
+#srch{
+    float: right;
+    margin-top: 2px;
+}
+#inp{
+    border: 3px solid green;
+    width: 70%;
+}
